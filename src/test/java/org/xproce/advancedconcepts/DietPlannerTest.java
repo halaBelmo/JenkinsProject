@@ -13,7 +13,7 @@ import static org.junit.jupiter.api.Assertions.assertAll;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class DietPlannerTest {
-//.............
+//this is a unit test for the DietPlanner class, which calculates a diet plan based on a coder's attributes such as height, weight, age
     private DietPlanner dietPlanner;
 
     @BeforeEach
